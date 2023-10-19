@@ -1,0 +1,7 @@
+.App {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: minmax(200px, 20%) 1fr;
+  background-color: gray;
+}
